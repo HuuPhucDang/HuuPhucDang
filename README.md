@@ -5,6 +5,11 @@
 ## Social
 <a href="https://www.linkedin.com/in/phuc-luffy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
+## Skill
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
 <!--
 **HuuPhucDang/HuuPhucDang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
